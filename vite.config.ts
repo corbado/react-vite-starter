@@ -13,5 +13,10 @@ export default defineConfig({
   },
   server: {
     port: 3000, // Default port is 5173, but you can change it to 3000 or any other port
-  }
+  },
+  build: {
+    outDir: "dist", // Customize the output directory
+    sourcemap: true, // Generate source maps for easier debugging
+    minify: "esbuild",
+  },
 });
