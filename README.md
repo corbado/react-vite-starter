@@ -41,9 +41,14 @@ Make sure you have [Node.js](https://nodejs.org/) and [Npm](https://docs.npmjs.c
 1. **Clone the repository:**
 
    ```bash
+   
    git clone https://github.com/yourusername/react-vite-starter.git
    
+   ```
+   ```bash
+   
    cd react-vite-starter
+   
    ```
 
 2. **Install dependencies:**
