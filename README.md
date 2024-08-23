@@ -42,6 +42,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [Npm](https://docs.npmjs.c
 
    ```bash
    git clone https://github.com/yourusername/react-vite-starter.git
+   
    cd react-vite-starter
    ```
 
